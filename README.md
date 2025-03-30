@@ -61,11 +61,11 @@ DockIT is a customizable, 3D-printed, ESP32-powered modular control station desi
 
 ## 🧪 Status
 
-- [~] Hardware prototyping (main module + slider)
-- [~] UI mockups and boot animation
-- [ ] Full modular hot-plug detection
-- [ ] Bluetooth/USB HID implementation
-- [~] Final 3D-printed case design
+- ⏳ Hardware prototyping (main module + slider)
+- ⏳ UI mockups and boot animation
+- ❌ Full modular hot-plug detection
+- ❌ Bluetooth/USB HID implementation
+- ⏳ 3D-printed case design
 
 ---
 
