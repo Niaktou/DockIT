@@ -1,4 +1,4 @@
-![DockIT logo](DockIT_logo.png)
+![DockIT logo](DockIT_Logo.png)
 A fully modular things
 
 # DockIT — Modular Desktop Control System
